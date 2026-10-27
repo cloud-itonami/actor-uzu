@@ -1,6 +1,6 @@
 # uzu 渦 — a dissipative information-energy organism
 
-Canonical repository: `etzhayyim/actor-uzu`. This is a bounded simulation
+Canonical repository: `cloud-itonami/actor-uzu`. This is a bounded simulation
 organ inside the Tamaki-centered Etzhayyim artificial organism; it models
 information-energy coupling but does not replace Tamaki's organism authority
 or actuate a physical system. The former `com-etzhayyim-uzu` name remains a
